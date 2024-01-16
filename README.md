@@ -1,3 +1,4 @@
+# wykonane przez frontend-agnes.pl
 > :dart: *Chcę mieć absolutną pewność, że **darmowe materiały**, które publikuję, spełniają Twoje oczekiwania. Dlatego oferuję Ci ebooka o wartości 39 PLN: `Jak zostać programistą? SKUTECZNY PRZEWODNIK` w zamian za [wypełnienie ankiety](https://devmentor.pl/ankieta).*
 
 &nbsp;
@@ -6,7 +7,7 @@
 
 Trzeba przyznać, że standard *ES2015*, tj. *ES6*, wniósł do świata JavaScriptu bardzo dużo usprawnień. Obecnie rozwiązania zaproponowane w tej specyfikacji są na co dzień wykorzystywane przez programistów i nie wyobrażają sobie oni pracy bez nich.
 
-Jeśli chcesz zacząć pracę jako programista JS, musisz poznać rozwiązania dostępne w wersji *ES2015* i nowszych. Oczywiście przeglądarki nie zawsze nadążają ze zmianami, dlatego nasz nowoczesny kod będziemy poddawać transpilacji przy pomocy *webpacka*. 
+Jeśli chcesz zacząć pracę jako programista JS, musisz poznać rozwiązania dostępne w wersji *ES2015* i nowszych. Oczywiście przeglądarki nie zawsze nadążają ze zmianami, dlatego nasz nowoczesny kod będziemy poddawać transpilacji przy pomocy *webpacka*.
 
 &nbsp;
 
@@ -28,11 +29,11 @@ Jeśli chcesz zacząć pracę jako programista JS, musisz poznać rozwiązania d
 
 ## Jak prawidłowo wykonać zadania?
 
-Najpierw zrób tzw. [`fork`](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) (prawy, górny róg strony). W ten sposób utworzysz kopię tego repozytorium na Twoim koncie GitHub. 
+Najpierw zrób tzw. [`fork`](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) (prawy, górny róg strony). W ten sposób utworzysz kopię tego repozytorium na Twoim koncie GitHub.
 
 Teraz będziesz mógł wykonywać zadania na swoim repozytorium. Wystarczy, że skopiujesz pliki na swój komputer przy pomocy komendy [`git clone`](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
-Zadania rozwiązuj jedno po drugim, ponieważ z każdym kolejnym ich poziom trudności wzrasta.  
+Zadania rozwiązuj jedno po drugim, ponieważ z każdym kolejnym ich poziom trudności wzrasta.
 
 Pamiętaj o zapisywaniu historii zmian w plikach przy pomocy komend [`git add`](https://github.com/git-guides/git-add) oraz [`git commit`](https://github.com/git-guides/git-commit).
 
