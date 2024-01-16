@@ -1,4 +1,4 @@
-const taskNumber = "03";
+const taskNumber = "04";
 //numer przerabianego zadania
 
 const path = require('path');
@@ -14,7 +14,7 @@ module.exports = {
         filename: 'app.min.js',
         // definiuję nazwę pliku wyjściowego
     },
-    watch: false,
+    watch: true,
     target: "web",
     // niezbędne do uruchomienia automatycznego odświeżania z webpack-dev-server@3
     // https://github.com/webpack/webpack-dev-server/issues/2758
